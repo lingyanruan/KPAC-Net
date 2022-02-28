@@ -50,7 +50,7 @@ Download and unzip test sets [DPDD](https://github.com/Abdullah-Abuolaim/defocus
 #### 4. Command Line
 
 ```shell
-python main.py
+python Eval.py
 ```
 
 ## Contact
