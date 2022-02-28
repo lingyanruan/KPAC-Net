@@ -1,4 +1,4 @@
-# KPAC-Net (Performance Gain)
+# KPAC-Net (Improved Version)
 
 
 ![License CC BY-NC](https://img.shields.io/badge/License-GNU_AGPv3-yellowgreen.svg?style=flat)
