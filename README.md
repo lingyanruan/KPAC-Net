@@ -5,7 +5,8 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-16.0.4%20&%2018.0.4-blue.svg?style=plastic)
 ![Python](https://img.shields.io/badge/Python-3.6-yellowgreen.svg?style=plastic)
 ![CUDA](https://img.shields.io/badge/CUDA-10.2%20-yellowgreen.svg?style=plastic)
-![PyTorch](https://img.shields.io/badge/PyTorch-1.8.0-yellowgreen.svg?style=plastic)
+![TensorFlow 1.13.1](https://img.shields.io/badge/tensorflow-1.13.1-yellowgreen.svg?style=plastic)
+![TensorLayer 1.11.1](https://img.shields.io/badge/tensorlayer-1.11.1-yellowgreen.svg?style=plastic)
 
 This repository offers the improved version of KPAC network using the training strategy mentioned in the following paper.
 
