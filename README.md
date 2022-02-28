@@ -20,7 +20,7 @@ This repository offers the improved version of KPAC network using the training s
 
 <!-- <img src="./assets/performance_gain.png" width="50%" alt="teaser figure"> -->
 
-The orignial DPDNet can be found **[Here](https://github.com/Abdullah-Abuolaim/defocus-deblurring-dual-pixel)** .
+The orignial KPAC-Net can be found **[Here](https://github.com/HyeongseokSon1/KPAC)** .
 
 ## Code Here
 
