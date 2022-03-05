@@ -8,7 +8,7 @@
 ![TensorFlow 1.13.1](https://img.shields.io/badge/tensorflow-1.13.1-yellowgreen.svg?style=plastic)
 ![TensorLayer 1.11.1](https://img.shields.io/badge/tensorlayer-1.11.1-yellowgreen.svg?style=plastic)
 
-This repository offers the improved version of KPAC network using the training strategy mentioned in the following paper.
+This repository offers the retrained version of KPAC network using the training strategy mentioned in the following paper.
 
 > **[Learning to Deblur using Light Field Generated and Real Defocused Images](placeholder)**<br>
 > Lingyan Ruan<sup>\*</sup>, Bin Chen<sup>\*</sup>, Jizhou Li, Miuling Lam （\* equal contribution）
