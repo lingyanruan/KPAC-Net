@@ -42,7 +42,7 @@ $ cd KPAC-Net
 
 #### 2. Pre-trained models
 
-Download and unzip [pretrained weights](placeholder) under `./ModelCheckpoints/`:
+Download and unzip [pretrained weights](https://drive.google.com/file/d/136jfBLpXb6oBdCLZ1DITIlW2oBTcgFNU/view?usp=sharing) under `./ModelCheckpoints/`:
 
 #### 3. Datasets
 
