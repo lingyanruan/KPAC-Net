@@ -1,4 +1,4 @@
-# KPAC-Net (Improved Version)
+# KPAC-Net (Retrained Version)
 
 
 ![License CC BY-NC](https://img.shields.io/badge/License-GNU_AGPv3-yellowgreen.svg?style=flat)
@@ -10,8 +10,9 @@
 
 This repository offers the retrained version of KPAC network using the training strategy mentioned in the following paper.
 
-> **[Learning to Deblur using Light Field Generated and Real Defocused Images](placeholder)**<br>
-> Lingyan Ruan<sup>\*</sup>, Bin Chen<sup>\*</sup>, Jizhou Li, Miuling Lam （\* equal contribution）
+> **[Learning to Deblur using Light Field Generated and Real Defocused Images](https://arxiv.org/pdf/2204.00367.pdf)**<br>
+> Lingyan Ruan<sup>\*</sup>, Bin Chen<sup>\*</sup>, Jizhou Li, Miuling Lam （\* equal contribution）<br>
+> IEEE Computer Vision and Pattern Recognition (**CVPR Oral**) 2022
 
 <p align="left">
   <a>
@@ -42,7 +43,7 @@ $ cd KPAC-Net
 
 #### 2. Pre-trained models
 
-Download and unzip [pretrained weights]() under `./ModelCheckpoints/`:
+Download and unzip [pretrained weights](https://drive.google.com/drive/folders/1KZp0t9v7bHUyIcAQzZHfVFjAA0LUrHy3?usp=sharing) under `./ModelCheckpoints/`:
 
 #### 3. Datasets
 
